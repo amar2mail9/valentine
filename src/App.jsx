@@ -1,6 +1,5 @@
 import React from "react";
-import UltraRomanticValentine from "./assets/UltraRomanticValentine";
-import TitaniumValentineMaster from "./TitaniumValentineMaster";
+import TitaniumValentineMaster from "./component/TitaniumValentineMaster";
 
 const App = () => {
   return (
